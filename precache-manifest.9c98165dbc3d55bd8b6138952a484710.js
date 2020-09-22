@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d97ed4c4ddaea40c6a64cabd83cbaa22",
+    "revision": "87a96254266c1f54fffe16e09e399a40",
     "url": "/isi-web/index.html"
   },
   {
