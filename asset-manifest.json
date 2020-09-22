@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/isi-web/static/css/main.5f361e03.chunk.css",
+    "main.js": "/isi-web/static/js/main.ab910046.chunk.js",
+    "main.js.map": "/isi-web/static/js/main.ab910046.chunk.js.map",
+    "runtime-main.js": "/isi-web/static/js/runtime-main.e22e1578.js",
+    "runtime-main.js.map": "/isi-web/static/js/runtime-main.e22e1578.js.map",
+    "static/js/2.0bb7f203.chunk.js": "/isi-web/static/js/2.0bb7f203.chunk.js",
+    "static/js/2.0bb7f203.chunk.js.map": "/isi-web/static/js/2.0bb7f203.chunk.js.map",
+    "index.html": "/isi-web/index.html",
+    "precache-manifest.210809c17aace9c6c5fefc73780fcd74.js": "/isi-web/precache-manifest.210809c17aace9c6c5fefc73780fcd74.js",
+    "service-worker.js": "/isi-web/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/isi-web/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0bb7f203.chunk.js.LICENSE.txt": "/isi-web/static/js/2.0bb7f203.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/isi-web/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e22e1578.js",
+    "static/js/2.0bb7f203.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ab910046.chunk.js"
+  ]
+}
