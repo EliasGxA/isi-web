@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "87a96254266c1f54fffe16e09e399a40",
+    "revision": "87f309d79abc017812163741de4cfe87",
     "url": "/isi-web/index.html"
   },
   {
-    "revision": "bfd4971b68ad8df92491",
+    "revision": "c556f9ffa8735fa8fed5",
     "url": "/isi-web/static/css/2.69507427.chunk.css"
   },
   {
-    "revision": "5ed33e137fa01868b78e",
+    "revision": "80a7237bde06860266dc",
     "url": "/isi-web/static/css/main.5bd0097c.chunk.css"
   },
   {
-    "revision": "bfd4971b68ad8df92491",
-    "url": "/isi-web/static/js/2.6848805c.chunk.js"
+    "revision": "c556f9ffa8735fa8fed5",
+    "url": "/isi-web/static/js/2.13bc86e2.chunk.js"
   },
   {
     "revision": "90377550dd86ed303dd30d8f487872de",
-    "url": "/isi-web/static/js/2.6848805c.chunk.js.LICENSE.txt"
+    "url": "/isi-web/static/js/2.13bc86e2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5ed33e137fa01868b78e",
-    "url": "/isi-web/static/js/main.ff9ab094.chunk.js"
+    "revision": "80a7237bde06860266dc",
+    "url": "/isi-web/static/js/main.b533b89f.chunk.js"
   },
   {
     "revision": "3200d4f9e263a52ad920",
@@ -34,5 +34,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f15e32e0216d95647c1debccb568618a",
     "url": "/isi-web/static/media/enchufe2.f15e32e0.jpg"
+  },
+  {
+    "revision": "5cfad389a2a6af45dac6a87df08d3765",
+    "url": "/isi-web/static/media/isilogo.5cfad389.jpg"
   }
 ]);
