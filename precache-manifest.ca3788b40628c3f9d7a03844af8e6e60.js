@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8702d56314862fd9ab14b4a1f5d6ade1",
+    "revision": "c1b31c13531a87ff221fbb9a344a6146",
     "url": "/isi-web/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/isi-web/static/css/2.69507427.chunk.css"
   },
   {
-    "revision": "e0f9c98547882250f2b2",
+    "revision": "18c4cff52cb349fbe1c0",
     "url": "/isi-web/static/css/main.750883c3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/isi-web/static/js/2.a73efe34.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e0f9c98547882250f2b2",
-    "url": "/isi-web/static/js/main.dc6e488e.chunk.js"
+    "revision": "18c4cff52cb349fbe1c0",
+    "url": "/isi-web/static/js/main.2f016214.chunk.js"
   },
   {
     "revision": "3200d4f9e263a52ad920",
